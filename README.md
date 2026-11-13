@@ -23,7 +23,7 @@ _More coming soon._
 
 ## Certifications
 
-CompTIA Network+ · Microsoft AZ-900 · AWS Cloud Practitioner
+CompTIA Network+ · Microsoft AZ-900 · AWS Cloud Practitioner · Microsoft SC-300
 
 ## Contact
 
